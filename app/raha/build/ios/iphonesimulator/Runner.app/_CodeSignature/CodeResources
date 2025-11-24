@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		yazdjzDMQ+T9tX3rri9r11T/fyI=
+		tkNmgs3+QYtxBXcGQ192ZcKXDfk=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		3azZtDTDWTUeu4W0BEuAcBvCsTc=
+		Txl27NE9uVDWg9xk/Kv2RZpplgY=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/.env</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
-		NpL5UjXeVG1BWX+rw2EPK4Pw19g=
+		t3cWFrebWt9SSgkOfenBGSAVGjM=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		g8CEJwwUlU0kszUchIf0Tokvems=
+		HlKwnJL97K2UPKHNuLrRGtLgD/c=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -80,6 +80,18 @@
 		<data>
 		re4p7E8rPLLsN+wzaPN/+AVpXTY=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/rahaLogo.jpeg</key>
+		<data>
+		bk1uK3gLrO9mlTITaNNyDjWFWzA=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/rahaLogo.png</key>
+		<data>
+		B+wGrRl+jaDxywxc3NQ5jNWP0lI=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/rahaLogo2.png</key>
+		<data>
+		/UuLyUZS5ZYYzl9GjqYimfBf9r4=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
 		/CUoTuPQqqdexfyOT9lpJhV+2MQ=
@@ -90,7 +102,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		gTBZuNwK/8EnTjmX4JKn1MIU5ME=
+		kNDwopS2wId7ZcCtDqJM/PpJaKU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -210,7 +222,7 @@
 		</data>
 		<key>Frameworks/app_links.framework/app_links</key>
 		<data>
-		/UK5lyMycI0VDu59/XEMrl+Dv74=
+		R0ioPOqZYUiluqPL3gTlRAxUDWk=
 		</data>
 		<key>Frameworks/app_links.framework/app_links_ios_privacy.bundle/Info.plist</key>
 		<data>
@@ -230,7 +242,7 @@
 		</data>
 		<key>Frameworks/geolocator_apple.framework/geolocator_apple</key>
 		<data>
-		7cPRvahFK8MRwpJs8u+7YaH9T+c=
+		5b5MNi38wss+UFs4UigDirUgkBA=
 		</data>
 		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/Info.plist</key>
 		<data>
@@ -250,7 +262,7 @@
 		</data>
 		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation</key>
 		<data>
-		TGITPckQqvb16XgZUKNO5mGAGZ4=
+		B8+WJQSITBdLhJEXdMJXWB8mnEM=
 		</data>
 		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation_privacy.bundle/Info.plist</key>
 		<data>
@@ -270,7 +282,7 @@
 		</data>
 		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation</key>
 		<data>
-		jEhPltfXtiU9Krm0rHbj1sluT1U=
+		gHHz4bcIHYzJ0NnzIXqd+ntrtAg=
 		</data>
 		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist</key>
 		<data>
@@ -290,7 +302,7 @@
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios</key>
 		<data>
-		eO8mUr2fjCWgQ5uDxlZzJKmuwRs=
+		3nApO1HrYYfwd6fDibJ2jdvjaJM=
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>
 		<data>
@@ -1122,7 +1134,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/xcQ6AHtxlBzcjZ17R0cdUpj7+M=
+		96b6GGNPIDgcQiDx14GyMdygOps=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -1130,7 +1142,7 @@
 		</data>
 		<key>Runner.debug.dylib</key>
 		<data>
-		ezKK5B5O7UPzKJoxTMVKbdXs3VQ=
+		6EmiM/PM2wD7Rf6sMbuuos+EM9g=
 		</data>
 		<key>__preview.dylib</key>
 		<data>
@@ -1221,7 +1233,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7OaGHlF1GsdF4Y0uFeu9ORBIeueGI1KQxXyEfLLbRvg=
+			7AJBVBeelIT1J9Hz3PWC/CmaTOLdUh6E7gc1ku8eUpI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -1235,7 +1247,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZHj+hG0xU6A+6RCikn2/++NiMleJfHoy7OXmJhFE9l8=
+			97qohqCVQ4Bx4Gg4FAMGn4t3CfAQyZ647jRCh7LU6KA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/.env</key>
@@ -1249,14 +1261,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UDLq2wsfg0gezuRGrCSOjRliMKBWLDucijk9KRFZo9k=
+			CXDP35Ch4yQstvdEoK50bYxSrfnIryJ2F8gjNqaJZyk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nO50He5UgyE2GCu4yiSpO+A9gvQrxKPQ7LEK9WrR99s=
+			eIUGO0Ui/Q8kAePYfdthrsPzltJgNo/EWcoauSiLhq0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -1280,6 +1292,27 @@
 			lUijHkoEgTXB2U+Rkyi/tirix7s8q5ZVfHlB2ql3dss=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/rahaLogo.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K3Zn1ZgUUOzWDzEPbgcGll8KlYQBNbmW2Ooy85Alec4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/rahaLogo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BYcvJL4VjbIy+9TWjTfewPa4gwessaZO3JvGFODTft8=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/rahaLogo2.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MEfVw2Z+SF4rdcCdB3b++4KTrIlfeAc2A7s400IJnD8=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<dict>
 			<key>hash2</key>
@@ -1298,7 +1331,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BHcAPvdaw41gpFwb19Iludr1dVvL45YH49T5Y9JDEG8=
+			WNcPQ7+Jb8f2/wg0gUOrXpUF+X6AWUhD0snAcjz0pGo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -1508,7 +1541,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S/QgwE0yMOFniLNvfq9JtWSVxPFD12aHknjTKPLt8Lg=
+			osC+KE5wbOa9feuRmUPlIlvPuzXVGR57Xg5mXIj+80Y=
 			</data>
 		</dict>
 		<key>Frameworks/app_links.framework/app_links_ios_privacy.bundle/Info.plist</key>
@@ -1543,7 +1576,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1VwcfzJ4mHkGLRNkTAklaBa0De+zG5lojrvF9FXIqqA=
+			oh5fhZf/KG0g5Mo3kWFS7QjUOWyDbVDMAToKMEk84es=
 			</data>
 		</dict>
 		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/Info.plist</key>
@@ -1578,7 +1611,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ou0hoyg8YobbEx6CAqwBFxYayYiZRVfYnytf5dFV6nw=
+			rv24WXJUKOdEMFdGZPq28hxeMMDv0dSXg530KEEFTes=
 			</data>
 		</dict>
 		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation_privacy.bundle/Info.plist</key>
@@ -1613,7 +1646,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gF3W7ExR+yHtPwC27v3mqxxSdWz29VH7rztdRcVFRz8=
+			Ts+PswVZlT5HVPYtXkaCEXmd2nH5cKpLsgiexB1tb5A=
 			</data>
 		</dict>
 		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist</key>
@@ -1648,7 +1681,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			97+b4C2f27N3E05prysLbjSTtdSb5roa7IEW0JnUlso=
+			tdOFNZxtyux1tqGq79zaMSmjZJftM9/0jkxPj0JxOms=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>
@@ -2753,7 +2786,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3eFle+rCT7sVzbjNCc1MI9imMa6qdvCSmuEmtUxHj1o=
+			vug3zZCq8WAdaqsCTJER9dZi/w9iwXPcyJ/m1kCD+xs=
 			</data>
 		</dict>
 		<key>__preview.dylib</key>
